@@ -1,0 +1,240 @@
+body{
+  background-color: black;
+}
+#title{
+  background-color: #3bb4c1;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+h1{
+  font-family:  cursive;
+  text-align:center;
+  padding-top: 50px;
+  font-size: 2rem;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  margin-left: 150px;
+  color: white;
+
+}
+
+
+/*FIRST PAGE*/
+
+
+.ece-img{
+  width: 370px;
+  height: 370px;
+  border-radius: 10%;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.btn{
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+/*Navigation Bar*/
+
+.grad-img{
+  width:30px;
+  height: 30px;
+  position: relative;
+  top:-5px;
+  right:5px;
+}
+
+  .navbar{
+      padding: 1% 15%;
+      text-align: left;
+
+  }
+  .navbar-brand{
+      font-family: 'Montserrat', sans-serif;
+      font-size: 2.3rem;
+  }
+  .nav-item{
+      font-family: "PT Sans";
+      color: beige;
+      font-weight: bold;
+      padding: 5px;
+      font-size: 1rem;
+
+}
+.nav-img{
+  position: relative;
+   left: -2px;
+   top: -2px;
+  width: 20px;
+  height: 20px;
+}
+.item2{
+    font-weight: unset;
+    padding: 5px 18px;
+    margin-left: 50px;
+
+}
+.dp{
+  background-color: grey;
+   color: grey;
+}
+
+
+/*MESSAGES PART*/
+
+#messages{
+  background-color: #cdffeb;
+  padding: 9% 5%;
+}
+
+.messages-box{
+  text-align: center;
+}
+.msg-text{
+  color:#11144c;
+  margin-top: 20px;
+  line-height: 2;
+}
+
+.msg-hd{
+  font-family: cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1b335f;
+  margin-top: 20px;
+}
+
+.icon{
+  color:#3161a3;
+}
+
+
+.icon:hover{
+  color:black;
+}
+
+
+/*HEADING PART*/
+
+.heading{
+  background-color: #070d59;
+  padding: 1% 2%;
+  text-align: center;
+}
+.hdn-text{
+  font-family: cursive;
+  color:white;
+  font-size: 3rem;
+   text-align: center;
+}
+
+.classroom-img{
+  width:80px;
+  height: 80px;
+ margin-top: 10px;
+}
+
+
+/*FACULTY PART*/
+
+#faculty{
+  text-align: center;
+  background-color: #a6e3e9;
+  margin-top: 0;
+  padding: 10% 5%;
+}
+
+.faculty-hd{
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+  color: #35477d;
+}
+
+.faculty-text{
+  font-family: cursive;
+  font: 2rem;
+  color: #35477d;
+  margin-top: 50px;
+  line-height: 2;
+}
+
+.faculty-img{
+  border-radius: 100%;
+  width:200px;
+  height: 200px;
+  margin-top: 20px;
+}
+
+
+/*CGEC HEADING INFO*/
+.cgec{
+  background-color: #070d59;
+  padding: 1% 2%;
+  text-align: center;
+}
+.clg-img{
+  width:80px;
+  height: 80px;
+ margin-top: 10px;
+}
+
+
+/*CGEC INFO*/
+
+#cgec-info{
+  background-color: #a6e3e9;
+  padding: 30px;
+  text-align: center;
+
+}
+
+.card{
+  margin: 30px;
+  border: 1px solid;
+  border-radius: 20%;
+}
+
+
+.card-text{
+  color:#0900c3;
+  margin-top: 20px;
+}
+
+.info-text{
+  color:#11144c;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+
+}
+
+
+/*LINKS PART*/
+
+#links{
+  background-color: #1d1919;
+  text-align: center;
+  padding: 9% 5%;
+}
+
+.link-hd{
+  color: white;
+  font-family: cursive;
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+.link-text{
+  color: #1eafed;
+  font-size: 20px;
+}
+
+.scl-img{
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  margin: 20px 5px;
+}
